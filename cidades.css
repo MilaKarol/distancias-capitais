@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    background-color: rgb(216, 116, 208);
+    border-radius: 0.7rem;
+    width: 400px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color: white;
+    padding: 10px;
+}
+
+table, tr, td, th{
+    border: solid 1px black;
+    margin: auto;
+}
+tr, td, th{
+    width: 100px;
+}
+ th{
+    height: 10px;
+    
+ }
+tr, td, th{
+    padding: 15px;
+    text-align: center;
+}
+#macapa{
+    background-color: rgb(114, 216, 216);
+}
+#curitiba{
+    background-color: black;
+}
+#florianopolis{
+    background-color: black;
+}
+#fortaleza{
+    background-color: black;
+}
+#goiania{
+    background-color: black;
+}
+#joao-pessoa{
+    background-color: black;
+}
+
+#macapa{
+    background-color: black;
+}
+
+#maceio{
+    background-color: black;
+}
+#macapa2{
+    background-color: rgb(235, 252, 80);
+}
+
+th{
+    background-color: rgb(216, 116, 208);
+}
+tr:nth-child(even) {background-color: rgba(255, 255, 255, 0.74)}
+tr:hover {background-color:rgb(66, 233, 224);
+    transition: .3s;
+    transform: scale(1.2);
+}
