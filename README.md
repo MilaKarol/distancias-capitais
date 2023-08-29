@@ -12,6 +12,7 @@ O projeto Despesas foi composto pelas seguinte matéria:
 ## 📄 Descrição do projeto
 
 Projeto criado durante as aulas de Fundamentos de desenvolvimento web. Nessas aulas, o professor trabalhou css, html, e git hub.
+Este projeto foi criado para mostrar a referida distância entre as capitais do brasil, ultilizando o VSC para criar a tabela, usando varias linguagens de programação, como : head, tr, th, td, dentre outros.
 
 ## 🔧 Tecnologias, ferramentas, e linguagens usadas
 
